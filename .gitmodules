@@ -1,0 +1,4 @@
+[submodule "tradfri-test"]
+	path = tradfri-test
+	url = https://github.com/nagesh-14/tradfri-test/
+	branch = master
